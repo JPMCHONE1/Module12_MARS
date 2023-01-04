@@ -1,1 +1,2 @@
 # Module12_MARS
+## In this module I worked to scrape for news and weather informaiton about Mars. This informaiton included the titles and preview info about the news and a large dataset for Mars' weather etc. You will see that some of my work is not aligned correctly with the headers as I added and deleted sections multiple times and tried to keep these aligned but it didn't always work and my time ran out to clean them up. 
